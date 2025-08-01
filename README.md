@@ -33,7 +33,6 @@
 - 🌿 [LinkedIn](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368)
 - 📫 Reach me at `reyhaneh80ghalambor@gmail.com`
 
-<!-- Another divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave5.svg" alt="Wave Divider">
+  <img width="2988" height="100" alt="Project (20250802023231)" src="https://github.com/user-attachments/assets/f3f3c809-b24a-4e71-92ce-16e0389558d7" />
 </p>
