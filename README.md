@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\reyha\Downloads\pngimg.com - shrimps_PNG96471.png" width="300" alt="Shrimp Wave"/>
+  <img src="https://pngimg.com/uploads/shrimps/shrimps_PNG96471.png" width="300" alt="Shrimp Wave"/>
 </p>
 
 
