@@ -6,6 +6,10 @@
 <h1 align="center">🦐 Welcome to Reyhaneh's Reef 🦐</h1>
 <p align="center">Learning front-end. Surfacing cool design ideas.</p>
 
+<p align="center">
+  <img width="2988" height="100" alt="Project (20250802023231)" src="https://github.com/user-attachments/assets/f3f3c809-b24a-4e71-92ce-16e0389558d7" />
+</p>
+
 ## 🌊 About Me
 
 > Shrimp-sized coder with whale-sized ambition. <br>
