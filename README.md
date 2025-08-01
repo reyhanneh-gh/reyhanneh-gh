@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">🦐 Welcome to Reyhaneh's Reef 🦐</h1>
+<h1 align="center">Hello, I'm Reyhaneh 👋</h1>
 <p align="center">Learning front-end. Surfacing cool design ideas.</p>
 
 <p align="center">
