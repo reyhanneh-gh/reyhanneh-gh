@@ -1,11 +1,11 @@
-![Shrimp Vibes](https://reyhaneh-gh.github.io/shrimp-wave-site/)
+<p align="center">
+  <img src="C:\Users\reyha\Downloads\pngimg.com - shrimps_PNG96471.png" width="300" alt="Shrimp Wave"/>
+</p>
+
 
 <h1 align="center">🦐 Welcome to Reyhaneh's Reef 🦐</h1>
 <p align="center">Learning front-end. Surfacing cool design ideas.</p>
 
-<p align="center">
-  <img src="https://github.com/reyhanneh-gh/shrimp-wave-site/blob/main/shrimp-wave.png?raw=true" width="300" alt="Shrimp Wave"/>
-</p>
 
 ## 🌊 About Me
 
