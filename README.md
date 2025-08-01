@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="1920" height="1235" alt="pngimg com - shrimps_PNG96471" src="https://github.com/user-attachments/assets/5af0d1d2-cd66-4fbc-8c07-ef6825a9acc6 width="200" />
-</p>
+
+<img width="300" height="200" alt="pngimg com - shrimps_PNG96471" src="https://github.com/user-attachments/assets/5af0d1d2-cd66-4fbc-8c07-ef6825a9acc6/>
 
 <h1 align="center">🦐 Welcome to Reyhaneh's Reef 🦐</h1>
 <p align="center">Learning front-end. Surfacing cool design ideas.</p>
