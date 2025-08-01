@@ -14,7 +14,6 @@
 - 💻 Proficient in HTML5 & CSS3
 - 📱 Experienced in crafting responsive designs using Bootstrap and Tailwind CSS
 - 🛠️ Currently diving into: Web Dev • JavaScript  • Cool Visuals
-- 🐚 Favorite shell command: `git commit -m "🦐 feeling shellfish"`
 - 📍 Based in Tehran
   
 ## 💡 Featured Repositories
