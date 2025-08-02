@@ -25,6 +25,7 @@
 | 🍇 `` | Coming soon... |  |
 
 ![Mario](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Mario.gif)
+
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-800080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368/)
