@@ -1,35 +1,33 @@
-<p>
-  <img width="2560" height="1440" alt="YouTube Banner - Frontend Developer with Anime Style (1)" src="https://github.com/user-attachments/assets/13ef2f2b-acd2-402a-a500-b85415a7c816" />
+<p align="center">
+  <img width="2560" height="1440" alt="YouTube Banner - Frontend Developer with Anime Style" src="https://github.com/user-attachments/assets/13ef2f2b-acd2-402a-a500-b85415a7c816" />
 </p>
 
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
-<p align="center">Learning front-end. Surfacing cool design ideas.</p>
+<p align="center">Front-end explorer turning visuals into impact ✨</p>
 
 <p align="center">
   <img width="700" height="70" alt="Project (20250802023231)" src="https://github.com/user-attachments/assets/f3f3c809-b24a-4e71-92ce-16e0389558d7" />
 </p>
 
-## 🌊 About Me
+## 🎨 About Me
 
-> Shrimp-sized coder with whale-sized ambition. <br>
+> Detail-oriented with a love for playful, purposeful design.
 
-- 💻 Proficient in HTML5 & CSS3
-- 📱 Experienced in crafting responsive designs using Bootstrap and Tailwind CSS
-- 🛠️ Currently diving into: Web Dev • JavaScript  • Cool Visuals
-- 📍 Based in Tehran
-  
-## 💡 Featured Repositories
+- 💻 Skilled in HTML5 & CSS3
+- 🔍 Currently immersed in: Web Development • JavaScript • Interactive design
+
+## 🚀 Featured Repositories
 
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
-| 🧂 `` |  |  |
-| 🐠 `` |  |  |
-| 🦐 `` |  |  |
+| 📐 `` | Coming soon... |  |
+| 🎯 `` | Coming soon... |  |
+| 🧩 `` | Coming soon... |  |
 
-## 🐾 Let's Connect
+## 🌐 Let's Connect
 
-- 🐤 [Instagram](https://www.instagram.com/reyhaneh.alt/)
-- 🌿 [LinkedIn](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368)
+- 📸 [Instagram](https://www.instagram.com/reyhaneh.alt/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368)
 - 📫 Reach me at `reyhaneh80ghalambor@gmail.com`
 
 <p align="center">
