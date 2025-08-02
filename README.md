@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2560" height="968" alt="Reyahneh Ghalambor" src="https://github.com/user-attachments/assets/dc349470-bb28-4820-8f2e-631fa93e1726" />
+<img width="2560" height="968" alt="Reyahneh Ghalambor (2)" src="https://github.com/user-attachments/assets/0f8b2256-f5bd-4fc6-9de7-65690bbe4879" />
 </p>
 
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
