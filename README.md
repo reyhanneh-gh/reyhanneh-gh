@@ -29,3 +29,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-800080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368/)
 [![Instagram](https://img.shields.io/badge/-Instagram-800080?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/reyhaneh.alt/)
 [![Email](https://img.shields.io/badge/-Email-800080?style=flat-square&logo=gmail&logoColor=white)](reyhaneh80ghalambor@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C49BCF.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23C49BCF.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reyhaneh.alt/)
+[![Email](https://img.shields.io/badge/Email-%23C49BCF.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyhaneh80ghalambor@gmail.com)
+
+
