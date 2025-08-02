@@ -5,7 +5,6 @@
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
 <p align="center">Front-end explorer turning visuals into impact ✨</p>
 
-![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanneh-gh)
 ![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanneh-gh&hide=contribs,prs&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanneh-gh&layout=compact&theme=jolly)
 
