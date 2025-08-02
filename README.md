@@ -21,8 +21,8 @@
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
 | 💜 `bootstrap-responsive` | A homepage layout with sample content blocks, interactive navbar, and responsive sections to adapt smoothly to different screen sizes. | HTML5, CSS3, Bootstrap5 |
-| 🧩 `animeWebsite` | A sleek and animated landing page for a fictional anime streaming service. It showcases CSS-based animations and creative UI styling—perfect for anime enthusiasts and frontend fans alike. | HTML5, CSS3 (including keyframe animations) |
-| 🍇 `web_2` | this furniture shop landing page uses Flexbox to create visual hierarchy and clean structure. While not yet optimized for smaller screens, the layout demonstrates component arrangement and design thinking at a fixed width. |  |
+| 🧩 `AnimeWebsite` | A sleek and animated landing page for a fictional anime streaming service. It showcases CSS-based animations and creative UI styling—perfect for anime enthusiasts and frontend fans alike. | HTML5, CSS3 (including keyframe animations) |
+| 🍇 `web_2` | this furniture shop landing page uses Flexbox to create visual hierarchy and clean structure. While not yet optimized for smaller screens, the layout demonstrates component arrangement and design thinking at a fixed width. | HTML5, CSS3 (Flexbox-based layout) |
 
 ## 🌐 Let's Connect
 
