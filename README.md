@@ -1,4 +1,6 @@
-
+<p>
+  <img width="2560" height="1440" alt="YouTube Banner - Frontend Developer with Anime Style (1)" src="https://github.com/user-attachments/assets/13ef2f2b-acd2-402a-a500-b85415a7c816" />
+</p>
 
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
 <p align="center">Learning front-end. Surfacing cool design ideas.</p>
