@@ -5,8 +5,8 @@
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
 <p align="center">Front-end explorer turning visuals into impact ✨</p>
 
-![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanneh-gh&hide=contribs,prs&show_icons=true&theme=jolly&rank_icon=github&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanneh-gh&layout=compact&theme=jolly&hide_border=true)
+![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanneh-gh&hide=contribs,prs&show_icons=true&theme=material-palenight&rank_icon=github&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanneh-gh&layout=compact&theme=material-palenight&hide_border=true)
 
 
 ## 🎨 About Me
