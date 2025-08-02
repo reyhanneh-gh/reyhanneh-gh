@@ -3,30 +3,29 @@
 </p>
 
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
-<p align="center">Front-end explorer turning visuals into impact ✨</p>
+<p align="center">Front-end explorer turning visuals into impact 🪄</p>
 
 ![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanneh-gh&hide=contribs,prs&show_icons=true&theme=material-palenight&rank_icon=github&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanneh-gh&layout=compact&theme=material-palenight&hide_border=true)
 
 
-## 🎨 About Me
+## 💫 About Me
 
 > Detail-oriented with a love for playful, purposeful design.
 
 - 💻 Skilled in HTML5 & CSS3
 - 🔍 Currently immersed in: Web Development • JavaScript • Interactive design
 
-## 🚀 Featured Repositories
+## 🔮 Featured Repositories
 
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
-| 📐 `` | Coming soon... |  |
-| 🎯 `` | Coming soon... |  |
+| 💜 `` | Coming soon... |  |
 | 🧩 `` | Coming soon... |  |
+| 🍇 `` | Coming soon... |  |
 
 ## 🌐 Let's Connect
 
-- 📸 [Instagram](https://www.instagram.com/reyhaneh.alt/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368)
-- 📫 Reach me at `reyhaneh80ghalambor@gmail.com`
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhaneh-ghalambor-76a889368/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/reyhaneh.alt/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](reyhaneh80ghalambor@gmail.com)
