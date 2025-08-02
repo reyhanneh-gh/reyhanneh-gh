@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2560" height="1440" alt="YouTube Banner - Frontend Developer with Anime Style" src="https://github.com/user-attachments/assets/13ef2f2b-acd2-402a-a500-b85415a7c816" />
+<img width="2560" height="968" alt="Reyahneh Ghalambor" src="https://github.com/user-attachments/assets/dc349470-bb28-4820-8f2e-631fa93e1726" />
 </p>
 
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
