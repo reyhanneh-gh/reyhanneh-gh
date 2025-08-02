@@ -5,9 +5,7 @@
 <h1 align="center">Hello, I'm Reyhaneh 👋</h1>
 <p align="center">Front-end explorer turning visuals into impact ✨</p>
 
-<p align="center">
-  <img width="700" height="70" alt="Project (20250802023231)" src="https://github.com/user-attachments/assets/f3f3c809-b24a-4e71-92ce-16e0389558d7" />
-</p>
+![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanneh-gh&show_icons=true&theme=jolly)
 
 ## 🎨 About Me
 
