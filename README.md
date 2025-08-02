@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="150" alt="Picsart_25-08-02_02-10-38-172" src="https://github.com/user-attachments/assets/aacda5fa-87a0-47c8-9c4c-a65a352688c6" />
+  <img width="2560" height="1440" alt="YouTube Banner - Frontend Developer with Anime Style (1)" src="https://github.com/user-attachments/assets/f2fc988d-adad-495c-8e9e-17499ed95ea1" />
 </p>
 
 
