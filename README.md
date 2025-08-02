@@ -20,8 +20,8 @@
 
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
-| 💜 `bootstrap-responsive` | a homepage layout with sample content blocks, interactive navbar, and responsive sections to adapt smoothly to different screen sizes. | HTML5 • css3 • bootstrap5 |
-| 🧩 `` | Coming soon... |  |
+| 💜 `bootstrap-responsive` | A homepage layout with sample content blocks, interactive navbar, and responsive sections to adapt smoothly to different screen sizes. | HTML5, CSS3, Bootstrap5 |
+| 🧩 `animeWebsite` | A sleek and animated landing page for a fictional anime streaming service. It showcases CSS-based animations and creative UI styling—perfect for anime enthusiasts and frontend fans alike. | HTML5, CSS3 (including keyframe animations) |
 | 🍇 `` | Coming soon... |  |
 
 ## 🌐 Let's Connect
