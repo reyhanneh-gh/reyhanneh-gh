@@ -20,7 +20,7 @@
 
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
-| 💜 `` | Coming soon... |  |
+| 💜 `bootstrap-responsive` | a homepage layout with sample content blocks, interactive navbar, and responsive sections to adapt smoothly to different screen sizes. | HTML5 • css3 • bootstrap5 |
 | 🧩 `` | Coming soon... |  |
 | 🍇 `` | Coming soon... |  |
 
