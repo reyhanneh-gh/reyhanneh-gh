@@ -19,7 +19,6 @@ Aspiring to craft interactive, accessible websites & soon building dynamic apps 
 
 - Responsive design best practices
 - JavaScript fundamentals
-- DOM manipulation
 
 ## 🔮 Featured Repositories
 
