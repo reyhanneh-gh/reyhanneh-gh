@@ -8,27 +8,27 @@
 ![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanneh-gh&hide=contribs,prs&show_icons=true&theme=material-palenight&rank_icon=github&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanneh-gh&layout=compact&theme=material-palenight&hide_border=true)
 
-## 🫐 About Me
+## 🔮 About Me
 Detail-oriented with a love for playful, purposeful design.  
 Aspiring to craft interactive, accessible websites & soon building dynamic apps with JavaScript!
 
 ### 💻 Skilled in
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=fff) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=fff)
 
-### 🟣 Currently Learning
+### 🧩 Currently Learning
 
 - Responsive design best practices
 - JavaScript fundamentals
 
-## 🔮 Featured Repositories
+## 🍇 Featured Repositories
 
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
-|💜 [bootstrap-responsive](https://github.com/reyhanneh-gh/bootstrap-responsive) | A homepage layout with sample content blocks, interactive navbar, and responsive sections. | HTML5, CSS3, Bootstrap5 |
-|🧩 [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite) | Animated landing page for an anime streaming service. | HTML5, CSS3 (keyframes) |
-|🍇 [ web_2](https://github.com/reyhanneh-gh/web_2) | Furniture shop landing page using Flexbox. | HTML5, CSS3 |
+| [bootstrap-responsive](https://github.com/reyhanneh-gh/bootstrap-responsive) | A homepage layout with sample content blocks, interactive navbar, and responsive sections. | HTML5, CSS3, Bootstrap5 |
+| [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite) | Animated landing page for an anime streaming service. | HTML5, CSS3 (keyframes) |
+| [ web_2](https://github.com/reyhanneh-gh/web_2) | Furniture shop landing page using Flexbox. | HTML5, CSS3 |
 
-🌱 **Fun fact:** I love anime and sometimes I draw inspiration for my UI designs from animation!
+🍙 **Fun fact:** I love anime and sometimes I draw inspiration for my UI designs from animation!
 
 
 ## 🌐 Let's Connect
