@@ -24,9 +24,9 @@ Aspiring to craft interactive, accessible websites & soon building dynamic apps 
 
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
-| [bootstrap-responsive](https://github.com/reyhanneh-gh/bootstrap-responsive) | A homepage layout with sample content blocks, interactive navbar, and responsive sections. | HTML5, CSS3, Bootstrap5 |
+| [Ai-redesign](https://github.com/reyhanneh-gh/Ai-redesign) |  |  |
 | [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite) | Animated landing page for an anime streaming service. | HTML5, CSS3 (keyframes) |
-| [ web_2](https://github.com/reyhanneh-gh/web_2) | Furniture shop landing page using Flexbox. | HTML5, CSS3 |
+| [bootstrap-responsive](https://github.com/reyhanneh-gh/bootstrap-responsive) | A homepage layout with sample content blocks, interactive navbar, and responsive sections. | HTML5, CSS3, Bootstrap5 |
 
 🍙 **Fun fact:** I love anime and sometimes I draw inspiration for my UI designs from animation!
 
