@@ -24,7 +24,7 @@ Aspiring to craft interactive, accessible websites & soon building dynamic apps 
 
 | Repo | Description | Tech Stack |
 |------|-------------|------------|
-| [Ai-redesign](https://github.com/reyhanneh-gh/Ai-redesign) | responsive web interface for an AI-powered Q&A assistan | HTML5 & Tailwind CSS |
+| [Ai-redesign](https://github.com/reyhanneh-gh/Ai-redesign) | responsive web interface for an AI-powered Q&A assistan | HTML5, Tailwind CSS, JavaScript |
 | [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite) | Animated landing page for an anime streaming service. | HTML5, CSS3 (keyframes) |
 | [bootstrap-responsive](https://github.com/reyhanneh-gh/bootstrap-responsive) | A homepage layout with sample content blocks, interactive navbar, and responsive sections. | HTML5, CSS3, Bootstrap5 |
 
