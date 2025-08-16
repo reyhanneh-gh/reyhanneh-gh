@@ -22,10 +22,11 @@ Aspiring to craft interactive, accessible websites & soon building dynamic apps 
 
 ## 🍇 Featured Repositories
 
-| Repo | Description | Tech Stack |
-| [AIassistant-agency](https://github.com/reyhanneh-gh/AIassistant-agency) | A modern landing page built using Tailwind CSS with utility-first styling, responsive layouts, and clean UI principles. | HTML5, Tailwind CSS |
-| [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite) | Animated landing page for an anime streaming service. | HTML5, CSS3 (keyframes) |
-| [bootstrap-responsive](https://github.com/reyhanneh-gh/bootstrap-responsive) | A homepage layout with sample content blocks, interactive navbar, and responsive sections. | HTML5, CSS3, Bootstrap5 |
+| Repo                | Description                                                                                      | Tech Stack              |
+|---------------------|--------------------------------------------------------------------------------------------------|--------------------------|
+| AIassistant-agency  | A modern landing page built using Tailwind CSS with utility-first styling and clean UI principles.| HTML5, Tailwind CSS      |
+| AnimeWebsite        | Animated landing page for an anime streaming service.                                            | HTML5, CSS3 (keyframes)  |
+| bootstrap-responsive| A homepage layout with sample content blocks, interactive navbar, and responsive sections.       | HTML5, CSS3, Bootstrap5  |
 
 🍙 **Fun fact:** I love anime and sometimes I draw inspiration for my UI designs from animation!
 
