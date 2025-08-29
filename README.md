@@ -24,7 +24,7 @@ Aspiring to craft interactive, accessible websites & soon building dynamic apps 
 |---------------------|--------------------------------------------------------------------------------------------------|--------------------------|
 | [AIassistant-agency](https://github.com/reyhanneh-gh/AIassistant-agency)  | A modern landing page built using Tailwind CSS with utility-first styling and clean UI principles.| HTML5, Tailwind CSS      |
 | [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite)        | Animated landing page for an anime streaming service.                                            | HTML5, CSS3 (keyframes)  |
-| [calculator](https://github.com/reyhanneh-gh/AnimeWebsite)        | Animated landing page for an anime streaming service.                                            | HTML5, Tailwind CSS, JavaScript  |
+| [calculator](https://github.com/reyhanneh-gh/calculator)        | A simple calculator that includes square, square root, modulo, and a clear button In addition to the four basic arithmetic operations.         | HTML5, Tailwind CSS, JavaScript  |
 | [Digital-Clock](https://github.com/reyhanneh-gh/Digital-clock)| An interactive UI card built with HTML, Tailwind CSS, and JavaScript that displays the current date and transforms into a live digital clock on hover.       | HTML5, Tailwind CSS, JavaScript  |
 
 🍙 **Fun fact:** I love anime and sometimes I draw inspiration for my UI designs from animation!
