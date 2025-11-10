@@ -10,7 +10,7 @@
 
 ## 🔮 About Me
 Detail-oriented with a love for playful, purposeful design.  
-Aspiring to craft interactive, accessible websites & soon building dynamic apps with JavaScript!
+
 
 ### 💻 Skilled in
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=fff) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=fff) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
