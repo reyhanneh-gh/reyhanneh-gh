@@ -22,7 +22,7 @@ Detail-oriented with a love for playful, purposeful design.
 | [To-Do-List](https://github.com/reyhanneh-gh/To-Do-List)  | A dynamic and interactive task management app built with HTML, Tailwind CSS, and JavaScript.| HTML5, Tailwind CSS, Javascript  |
 | [AIassistant-agency](https://github.com/reyhanneh-gh/AIassistant-agency)  | A modern landing page built using Tailwind CSS with utility-first styling and clean UI principles.| HTML5, Tailwind CSS      |
 | [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite)        | Animated landing page for an anime streaming service.                                            | HTML5, CSS3 (keyframes)  |
-| [XO-mini-game](https://github.com/reyhanneh-gh/X-O-mini-game)| This project features dynamic gameplay, animated win lines, and a responsive layout. It focuses on practicing DOM manipulation, conditional logic, and visual feedback in pure JavaScript.       | HTML5, Tailwind CSS, JavaScript  |
+
 
 🍙 **Fun fact:** I love anime and sometimes I draw inspiration for my UI designs from animation!
 
