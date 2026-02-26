@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I'm Reyhaneh 👽</h1>
 <p align="center">Front-end explorer turning visuals into impact 🪄</p>
 
-
+[![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/reyhaneh-gh/github-readme-stats)
 
 ## 🔮 About Me
 Detail-oriented with a love for playful, purposeful design.  
