@@ -13,7 +13,13 @@ Detail-oriented with a love for playful, purposeful design.
 
 
 ### 💻 Skilled in
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=fff) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=fff) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?logo=swiper&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
 ## 🍇 Featured Repositories
 
