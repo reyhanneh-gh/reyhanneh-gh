@@ -5,8 +5,7 @@
 <h1 align="center">Hello, I'm Reyhaneh 👽</h1>
 <p align="center">Front-end explorer turning visuals into impact 🪄</p>
 
-[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reyhanneh-gh&theme=github_dark)]()
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyhanneh-gh&theme=github_dark)
+
 
 ## 🔮 About Me
 Detail-oriented with a love for playful, purposeful design.  
