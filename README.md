@@ -5,8 +5,8 @@
 <h1 align="center">Hello, I'm Reyhaneh 👽</h1>
 <p align="center">Front-end explorer turning visuals into impact 🪄</p>
 
-![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.dev/api?username=reyhanneh-gh&hide=contribs,prs&show_icons=true&theme=material-palenight&rank_icon=github&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.dev/api/top-langs/?username=reyhanneh-gh&layout=compact&theme=material-palenight&hide_border=true)
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reyhanneh-gh&theme=github_dark)]()
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyhanneh-gh&theme=github_dark)
 
 ## 🔮 About Me
 Detail-oriented with a love for playful, purposeful design.  
