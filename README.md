@@ -19,18 +19,9 @@ Detail-oriented with a love for playful, purposeful design.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
-### 💻 Currently Learning
+### 🍇 Currently Learning
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-
-
-## 🍇 Featured Repositories
-
-| Repo                | Description                                                                                      | Tech Stack              |
-|---------------------|--------------------------------------------------------------------------------------------------|--------------------------|
-| [To-Do-List](https://github.com/reyhanneh-gh/To-Do-List)  | A dynamic and interactive task management app built with HTML, Tailwind CSS, and JavaScript.| HTML5, Tailwind CSS, Javascript  |
-| [AIassistant-agency](https://github.com/reyhanneh-gh/AIassistant-agency)  | A modern landing page built using Tailwind CSS with utility-first styling and clean UI principles.| HTML5, Tailwind CSS      |
-| [AnimeWebsite](https://github.com/reyhanneh-gh/AnimeWebsite)        | Animated landing page for an anime streaming service.                                            | HTML5, CSS3 (keyframes)  |
 
 
 🍙 **Fun fact:** I love anime and sometimes I draw inspiration for my UI designs from animation!
